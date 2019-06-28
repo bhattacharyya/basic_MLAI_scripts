@@ -10,4 +10,4 @@ and wonderfully explained in his online book
 
 http://neuralnetworksanddeeplearning.com/chap1.html
 
-Unlike that code, this one is updated for running with python3. The differences are more subtle than just a change to the print statement
+Unlike that code, this one is updated for running with python3. The differences are more subtle than just a change to the print statement :)
