@@ -12,6 +12,6 @@ http://neuralnetworksanddeeplearning.com/chap1.html
 
 Unlike that code, this one is updated for running with python3. The differences are more subtle than just a change to the print statement :)
 
-##nn_from_scratch
+## nn_from_scratch
 
 This is a basic script that runs NN from scratch using torch. The network architecture assumes a single hidden layer
